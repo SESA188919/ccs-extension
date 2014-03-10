@@ -11,3 +11,17 @@
 *.lai
 *.la
 *.a
+
+# Java #
+*.class
+# Package Files #
+*.jar
+*.war
+*.ear
+# Maven #
+target/
+build/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
